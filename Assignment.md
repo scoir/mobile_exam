@@ -25,3 +25,7 @@ Create an app to keep track of my favorite pictures of dog breeds.
 ### As a User, I can remove dog cards from my collection
 * There is a mechanism to clear all dog cards from my collection
 * I can remove individual dog cards
+
+### As a Users, I can tap on a dog breed and view a larger version of the dog breed image
+* I can tap anywhere on the dog breed card to initiate the screen transition
+* Screen transitions are performed in a way that is smooth and/or native to the platform
