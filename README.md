@@ -2,7 +2,7 @@
 This repo contains an exercise intended for Mobile Engineers.
 
 ## Instructions
-1. Click "Use this timplate" to create a copy of this repository in your personal github account.
+1. Click "Use this template" to create a copy of this repository in your personal github account.
 1. Using Swift for iOS, complete [the assignment](./Assignment.md).
 1. Update this README with an `Assumptions` section containing documentation on any assumptions made while interpreting the requirements.
 1. Send an email to code_challenge@scoir.com with a link to your newly created repo containing the completed exercise.
